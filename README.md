@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nulltiton
 - 👀 I’m interested in learning object-oriented languages
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning C and Java
 - 📫 How to reach me:
 StackOverflow - Nulltiton
 
